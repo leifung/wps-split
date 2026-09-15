@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 拆分生成的产物
+*_拆分结果/
